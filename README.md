@@ -1,12 +1,5 @@
-# Basic Flask App
+# fashion-recommender-system
+A Deep Learning based Fashion Recommender System using the ResNET50
 
-This small repo demonstrates a proper file structure for a Flask app. The folders named *static* and *templates* are required.
-
-**Routes** and **static files** are handled correctly in all `src` and `href` attributes in the template files.
-
-The template file `base.html` is used as a shell by the other three HTML templates. This means they insert content into `base.html` according to Jinja2 template rules.
-
-After installing all dependencies, run the app by entering its folder and typing:
-
-`$ python routes.py`
-# fashion_recommender_system
+Follow the presentation for better understanding
+https://www.canva.com/design/DAEzK7Tfzo4/Fs5T5GjkE1_I0ud0DimcBA/edit?utm_content=DAEzK7Tfzo4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
